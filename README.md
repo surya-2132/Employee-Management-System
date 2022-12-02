@@ -2,6 +2,7 @@
 
 
 Step1 - create spring boot project
+
 Step2 - create package structure(controller, entity, service, repository)
 
 step3 - configure mysql database
